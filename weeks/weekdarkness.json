@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Darkness",
+			"dad-mystery",
+			[
+				33,
+				33,
+				33
+			]
+		],
+		[
+			"Elimination",
+			"dad-invert",
+			[
+				186,
+				100,
+				100
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		""
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
